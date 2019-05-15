@@ -10,7 +10,6 @@ Body {
     margin: 0 auto;
 }
 
-
 Header, Nav, Footer {
 
     background: #ebebeb;
@@ -22,39 +21,44 @@ Header, Nav, Footer {
     float: center;
   }
 
-  Section {
-    color: #777;
-    background: #ebebeb;
-    width: 470px;
-    height: 350px;
-    text-align: center;
-    margin-top: 20px;
-  }
-
-  Aside {
+Aside {
     float: right;
     color: #777;
     background: #ebebeb;
     width: 470px;
-    height: 350px;
+    height: 250px;
     text-align: center;
     margin-top: 10px;
+    
+  }
+
+  .section {
+    color: #777;
+      background: #ebebeb;
+      width: 50%;
+      height: 250px;
+      text-align: center;
+      margin-top: 20px;    
+
   }
 
   Article {
     color: #ebebeb;
     background: #777;
-    margin: 40px;
-    width: 400px;
-    height: 450;
+    margin: 20px;
+    width: 90%;
+    height: 70%;
     text-align: center;
-  
-    
-}
+    padding: 5px;
+  }
 
 h1, p {
     color: #777;
     background: #ebebeb;
-    margin: 10px;
-  
+  }
+
+.small {
+  height:30%;
+  width: 95%;
+  margin: 7px;
 }
