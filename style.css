@@ -34,11 +34,11 @@ Aside {
 
   .section {
     color: #777;
-      background: #ebebeb;
-      width: 50%;
-      height: 250px;
-      text-align: center;
-      margin-top: 20px;    
+    background: #ebebeb;
+    width: 50%;
+    height: 250px;
+    text-align: center;
+    margin-top: 20px;    
 
   }
 
@@ -52,13 +52,19 @@ Aside {
     padding: 5px;
   }
 
-h1, p {
-    color: #777;
-    background: #ebebeb;
-  }
-
-.small {
-  height:30%;
-  width: 95%;
-  margin: 7px;
+.h1{
+   color: #777;
+   background: #ebebeb;
+   height:30%;
+   width: 95%;
+   margin: 7px;
+   font-weight: bold
 }
+
+.p {
+    color: #777;
+   background: #ebebeb;
+   height:30%;
+   width: 95%;
+   margin: 7px;
+  }
