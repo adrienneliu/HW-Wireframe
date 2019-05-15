@@ -41,16 +41,18 @@ Header, Nav, Footer {
 
   Article {
     color: #ebebeb;
-    background: black;
-    margin: 30px;
+    background: #777;
+    margin: 40px;
     width: 400px;
-    height: 300;
+    height: 450;
     text-align: center;
+  
     
 }
 
 h1, p {
     color: #777;
     background: #ebebeb;
+    margin: 10px;
   
 }
