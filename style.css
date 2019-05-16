@@ -25,20 +25,22 @@ Aside {
     float: right;
     color: #777;
     background: #ebebeb;
-    width: 470px;
-    height: 250px;
+    width: 43%;
+    height: 240px;
     text-align: center;
     margin-top: 10px;
+    padding-top: 20px;
     
   }
 
   .section {
     color: #777;
     background: #ebebeb;
-    width: 50%;
-    height: 250px;
+    width: 55%;
+    height: 240px;
     text-align: center;
-    margin-top: 20px;    
+    margin-top: 20px;   
+    padding-top: 20px; 
 
   }
 
