@@ -1,6 +1,6 @@
 # HW-Wireframe
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot.PNG)
 
 A page with a grey background containing several block elements. 
 
